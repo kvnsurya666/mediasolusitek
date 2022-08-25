@@ -154,7 +154,6 @@
                   <i class="bx bx-tachometer"></i>
                 </div>
                 <h4><a href="">Web Administration</a></h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
               </div>
             </div>
 
