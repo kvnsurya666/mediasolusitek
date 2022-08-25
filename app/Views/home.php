@@ -256,7 +256,7 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item filter-web justify-content-center">
               <div class="portfolio-wrap">
-                <img src="assets/img/clients/logocjl.png" class="img-fluid" alt="" />
+                <img src="assets/img/clients/logoCJL.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
                   <h4>Website Cipta Jaya Lestari</h4>
                   <p>Web</p>
