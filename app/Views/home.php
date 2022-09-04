@@ -51,14 +51,14 @@
           <div class="row justify-content-end">
             <div class="col-lg-4 col-md-5 col-6 d-md-flex align-items-md-stretch">
               <div class="count-box">
-                <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="2" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="2" class="purecounter"></span>
                 <p>Happy Clients</p>
               </div>
             </div>
 
             <div class="col-lg-4 col-md-5 col-6 d-md-flex align-items-md-stretch">
               <div class="count-box">
-                <span data-purecounter-start="0" data-purecounter-end="3" data-purecounter-duration="2" class="purecounter"></span>
+                <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="2" class="purecounter"></span>
                 <p>Projects</p>
               </div>
             </div>
@@ -79,29 +79,26 @@
       <section id="clients" class="clients">
         <div class="container">
           <div class="row">
-            <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
+            <div class="col-lg-6 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
               <img src="assets/img/clients/logocjl.png" class="img-fluid" alt="" />
             </div>
 
-            <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
+            <div class="col-lg-6 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
               <img src="assets/img/clients/logocbmbaru.png" class="img-fluid" alt="" />
             </div>
 
-            <div class="col-lg-4 col-md-4 col-6 d-flex align-items-center justify-content-center" data-aos="zoom-in">
-              <img src="assets/img/clients/logoHCS.png" class="img-fluid" alt="" />
-            </div>
           </div>
         </div>
       </section>
       <!-- End Clients Section -->
 
       <!-- ======= Services Section ======= -->
-      <section id="services" class="services section-bg">
+      <!-- <section id="services" class="services section-bg">
         <div class="container" data-aos="fade-up">
           <div class="section-title">
             <h2>Services</h2>
             <p>
-              Kami melayani berbagai macam bidang IT yaitu, Web Design, Web Developer, Web Administration, Website Maintenance.
+              Kami melayani berbagai macam paket bundling website.
             </p>
           </div>
 
@@ -175,7 +172,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- End Sevices Section -->
 
       <!-- ======= Portfolio Section ======= -->
@@ -199,7 +196,7 @@
 
           <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web justify-content-center">
+            <div class="col-lg-6 col-md-6 portfolio-item filter-web justify-content-center">
               <div class="portfolio-wrap">
                 <img src="/assets/img/clients/logocbmbaru.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -213,7 +210,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web justify-content-center">
+            <div class="col-lg-6 col-md-6 portfolio-item filter-web justify-content-center">
               <div class="portfolio-wrap">
                 <img src="assets/img/clients/logoCJL.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -227,7 +224,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web justify-content-center">
+            <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web justify-content-center">
               <div class="portfolio-wrap">
                 <img src="assets/img/clients/logoHCS.png" class="img-fluid" alt="" />
                 <div class="portfolio-info">
@@ -239,7 +236,8 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
+
           </div>
         </div>
       </section>
