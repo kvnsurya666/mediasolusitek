@@ -260,7 +260,7 @@
                   <img src="assets/img/team/kevin.jpg" class="img-fluid" alt="" />
                   <div class="social">
                     <a href="https://www.facebook.com/fransiscus.kevin.surya/"><i class="bi bi-facebook"></i></a>
-                    <a href="https://www.instagram.com/kvnsuryap/"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.instagram.com/fkvnsurya/"><i class="bi bi-instagram"></i></a>
                     <a href="linkedin.com/in/fransiscus-kevin-surya-perdana-982895155"><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
@@ -276,10 +276,7 @@
                 <div class="member-img">
                   <img src="assets/img/team/puji.jpg" class="img-fluid" alt="" />
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
                     <a href="https://www.instagram.com/pratamapuji.a/"><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">

@@ -41,7 +41,7 @@
           <ul>
             <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
             <li><a class="nav-link scrollto" href="#about">About</a></li>
-            <li><a class="nav-link scrollto" href="#services">Services</a></li>
+            <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
             <li><a class="nav-link scrollto o" href="#portfolio">Portfolio</a></li>
             <li><a class="nav-link scrollto" href="#team">Team</a></li>
             <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -71,7 +71,7 @@
             <h4>Contact Us</h4>
             <p>
               <strong>Phone Office</strong><br>
-              <i class="bi bi-telephone"></i><a href="tel:0313896920" class="nobor">+62 8565 5513 1099</a><br>
+              <i class="bi bi-telephone"></i><a href="tel:085655131099" class="nobor">+62 8565 5513 1099</a><br>
               <strong>E-mail</strong><br>
               <i class="bi bi-envelope"></i> <a class="text-dark " href="mailto:mediasolusitek@gmail.com"> <u>mediasolusitek@gmail.com</u></a>
             </p>
